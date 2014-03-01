@@ -1,3 +1,4 @@
+//Sample code
 import java.io.*;
 import java.util.*;
 class gems
